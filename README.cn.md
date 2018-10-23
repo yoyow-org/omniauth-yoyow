@@ -2,7 +2,7 @@
 
 [中文](./README.cn.md) [En](./README.md)
 
-这是官方的OmniAuth YOYOW认证策略, 借助YOYOW的平台授权机制以实现账户授权认证. 在使用之前, 你需要一个平台账户[(如何成为平台)](https://github.com/yoyow-org/yoyow-node-sdk/tree/master/middleware#2-%E5%88%9B%E5%BB%BA%E5%B9%B3%E5%8F%B0), 并架设[YOYOW中间件服务](#架设中间件服务).
+这是官方的OmniAuth YOYOW认证策略, 借助YOYOW的平台授权机制以实现账户授权认证. 在使用之前, 你需要一个平台账户[(如何成为平台)](https://github.com/yoyow-org/yoyow-node-sdk/tree/master/middleware#2-%E5%88%9B%E5%BB%BA%E5%B9%B3%E5%8F%B0), 并架设[YOYOW中间件服务](#架设中间件服务).
 
 ## 安装
 
