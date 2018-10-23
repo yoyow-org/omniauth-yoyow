@@ -57,7 +57,7 @@ module.exports = {
     active_key: "",
     // secondary key of platform(required)
     secondary_key: "",
-    // memo key of platform(可选)
+    // memo key of platform(optional)
     memo_key: "",
     // platform id(yoyow id)
     platform_id: "",
