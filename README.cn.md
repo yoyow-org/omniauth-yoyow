@@ -71,7 +71,7 @@ module.exports = {
 };
 ```
 
-正式网配置示例:
+正式网配置示例:
 ```javascript
 module.exports = {
     // yoyow全节点api服务器地址(正式网)
