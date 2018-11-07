@@ -35,7 +35,7 @@ end
 将中间件代码clone到本地:
 
 ```bash
-git clone https://github.com/yoyow-org/yoyow-node-sdk/tree/master/middleware
+git clone https://github.com/yoyow-org/yoyow-node-sdk.git
 cd middleware
 vim conf/config.js
 ```
