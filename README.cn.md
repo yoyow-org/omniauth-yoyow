@@ -36,7 +36,13 @@ end
 
 ```bash
 git clone https://github.com/yoyow-org/yoyow-node-sdk.git
-cd middleware
+```
+
+安装依赖并修改配置文件:
+
+```bash
+cd yoyow-node-sdk/middleware
+npm install
 vim conf/config.js
 ```
 
@@ -82,4 +88,10 @@ module.exports = {
     // 允许接入的IP列表
     allow_ip: ["localhost", "127.0.0.1"]
 };
+```
+
+启动中间件:
+
+```bash
+npm start
 ```

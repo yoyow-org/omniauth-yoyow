@@ -37,7 +37,13 @@ Clone the middleware code:
 
 ```bash
 git clone https://github.com/yoyow-org/yoyow-node-sdk.git
-cd middleware
+```
+
+Install dependencies and update the configuration file:
+
+```bash
+cd yoyow-node-sdk/middleware
+npm install
 vim conf/config.js
 ```
 
@@ -84,4 +90,10 @@ module.exports = {
     // IP list allowed to access
     allow_ip: ["localhost", "127.0.0.1"]
 };
+```
+
+Start middleware:
+
+```bash
+npm start
 ```
